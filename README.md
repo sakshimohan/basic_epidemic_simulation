@@ -17,5 +17,9 @@ iii. A hospitalized case has a fixed probability of survival (all hospitalised c
 ## Sample scenarios
 
 Two sample scenarios are demonstrated - one where hospital capacity is _breached_ and one where it is _not breached_. 
+
 To demonstrate the effect of a drug, we can simply change the _probability of death for hospitalised cases_ (`d_h`) and the a_verage length of hospital stay_ (`h_stay`). 
+
 Further to run country-level simulations, we can plug in the actual _total population_ (`total_pop`) and _bed capacity_ (`H_max`) values. 
+
+**Author**: Sakshi Mohan
